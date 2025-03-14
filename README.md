@@ -38,7 +38,7 @@ Balanced nutrition (protein & carbohydrates) enhances study performance.
 
 # Dataset
 
-📌 Data to be Collected:
+Data to be Collected:
 
 Factor	                                          Measurement Method
 
