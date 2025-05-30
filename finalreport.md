@@ -22,11 +22,11 @@ KEY VISUAL FINDINGS & INTERPRETATIONS
 
 1) Correlation Heatmap
 Phone Usage vs. Study Duration: Strong negative correlation
-→ As phone screen time increases, study time decreases
+ As phone screen time increases, study time decreases
 Sleep Duration vs. Study Duration: Moderate positive correlation
-→ More sleep leads to longer studying
+ More sleep leads to longer studying
 Caffeine Intake vs. Study Duration: Positive correlation
-→ A cup of coffee appears to support study stamina
+ A cup of coffee appears to support study stamina
 2) Phone Usage vs. Study Duration
 
 🡒 A clear downward trend: Students who spent more time on their phone studied significantly less.
