@@ -85,15 +85,15 @@ corr_caffeine, p_caffeine = pearsonr(data['CaffeineIntake'], data['StudyDuration
 
 print("\n\U0001F4F1 Phone Usage vs Study Duration")
 print("Correlation:", round(corr_phone, 3), "| P-Value:", round(p_phone, 4))
-print("✅ Significant" if p_phone < 0.05 else "❌ Not Significant")
+print(" Significant" if p_phone < 0.05 else " Not Significant")
 
 print("\n\U0001F634 Sleep Duration vs Study Duration")
 print("Correlation:", round(corr_sleep, 3), "| P-Value:", round(p_sleep, 4))
-print("✅ Significant" if p_sleep < 0.05 else "❌ Not Significant")
+print(" Significant" if p_sleep < 0.05 else " Not Significant")
 
 print("\n\u2615 Caffeine Intake vs Study Duration")
 print("Correlation:", round(corr_caffeine, 3), "| P-Value:", round(p_caffeine, 4))
-print("✅ Significant" if p_caffeine < 0.05 else "❌ Not Significant")
+print(" Significant" if p_caffeine < 0.05 else " Not Significant")
 
 # 7. Additional Visualization: Weekly Trend of Phone Usage
 plt.figure(figsize=(10, 6))
